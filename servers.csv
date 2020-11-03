@@ -1,1 +1,1 @@
-4.tcp.ngrok.io;14320
+0.tcp.ngrok.io;19476\n', 't=2020-11-03T15:12:01+0000 lvl=info msg="received stop request" obj=app stopReq="{err:<nil> restart:false}"
