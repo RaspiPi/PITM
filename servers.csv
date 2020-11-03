@@ -1,1 +1,1 @@
-4.tcp.ngrok.io;12275
+020-11-03T14;51:39+0000 lvl=info msg="no configuration paths supplied"\n', 't=2020-11-03T14:51:39+0000 lvl=info msg="using configuration at default config path" path=/home/pi/.ngrok2/ngrok.yml\n', 't=2020-11-03T14:51:39+0000 lvl=info msg="open config file" path=/home/pi/.ngrok2/ngrok.yml err=nil\n', 't=2020-11-03T14:51:39+0000 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040\n', 't=2020-11-03T14:51:44+0000 lvl=warn msg="failed to check for update" obj=updater err="Post https://update.equinox.io/check: context deadline exceeded"
